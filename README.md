@@ -1,5 +1,12 @@
 # Person detection with YOLO
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+[![YOLO](https://img.shields.io/badge/YOLO-v11-8A2BE2)](https://github.com/AlexeyAB/darknet)  
+[![NumPy](https://img.shields.io/badge/NumPy-1.27-lightblue)](https://numpy.org/)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+
 ## Introduction
 
 This project enables person detection in videos using YOLO11 (You Only Look Once, version 11), a state-of-the-art deep learning framework for computer vision. It allows detecting people in videos and drawing bounding boxes around them.
